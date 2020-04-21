@@ -1,7 +1,7 @@
 
-@import "./template/1v1/1v1.wxss";
-@import "./template/grid/grid.wxss";
-@import "./template/custom/custom.wxss";
+@import "./template/1v1/1v1.css";
+@import "./template/grid/grid.css";
+@import "./template/custom/custom.css";
 
 .pusher {
   width: 100%;
